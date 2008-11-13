@@ -1,0 +1,11 @@
+intltool: intltool (Utilities for translation support)
+intltool:
+intltool: The intltool package contains an internationalization tool.  It
+intltool: is useful for extracting translatable strings from source files,
+intltool: collecting the extracted strings with messages from traditional
+intltool: source files (<source directory>/<package>/po) and merging the
+intltool: translations into .xml, .desktop and .oaf files.
+intltool:
+intltool:
+intltool:
+intltool: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
